@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">My First App</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
+    <string name="app_name">Una app más</string>
+    <string name="edit_message">Nro 1</string>
+    <string name="edit_message2">Nro 2</string>
+    <string name="button_send">A ver cuanto da</string>
 </resources>
