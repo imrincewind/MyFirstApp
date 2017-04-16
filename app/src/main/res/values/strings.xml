@@ -2,5 +2,9 @@
     <string name="app_name">Una app más</string>
     <string name="edit_message">Nro 1</string>
     <string name="edit_message2">Nro 2</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicación</string>
+    <string name="division">División</string>
     <string name="button_send">A ver cuanto da</string>
 </resources>
